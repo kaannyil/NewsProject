@@ -13,6 +13,7 @@
 		CBE687842A647E900044AF3E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBE687822A647E900044AF3E /* Main.storyboard */; };
 		CBE687862A647E920044AF3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBE687852A647E920044AF3E /* Assets.xcassets */; };
 		CBE687892A647E920044AF3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBE687872A647E920044AF3E /* LaunchScreen.storyboard */; };
+		CBE687912A6481210044AF3E /* NewsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE687902A6481210044AF3E /* NewsCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CBE687852A647E920044AF3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CBE687882A647E920044AF3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CBE6878A2A647E920044AF3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CBE687902A6481210044AF3E /* NewsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CBE6877C2A647E900044AF3E /* AppDelegate.swift */,
 				CBE6877E2A647E900044AF3E /* SceneDelegate.swift */,
 				CBE687802A647E900044AF3E /* ViewController.swift */,
+				CBE687902A6481210044AF3E /* NewsCell.swift */,
 				CBE687822A647E900044AF3E /* Main.storyboard */,
 				CBE687852A647E920044AF3E /* Assets.xcassets */,
 				CBE687872A647E920044AF3E /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				CBE687812A647E900044AF3E /* ViewController.swift in Sources */,
 				CBE6877D2A647E900044AF3E /* AppDelegate.swift in Sources */,
+				CBE687912A6481210044AF3E /* NewsCell.swift in Sources */,
 				CBE6877F2A647E900044AF3E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
